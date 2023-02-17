@@ -1,9 +1,4 @@
 # Python_Multiplica_oMatriz
-A atividade pode ser feita de forma individual ou em dupla.
-Em caso de dupla apenas um dos alunos deve enviar a atividade.
-A atividade deve conter o(s) nome(s) do(s) aluno(s).
-
-A entrega deve conter o código e a execução do mesmo.
 
 A atividade consiste em:
   1. Ler o tamanho (linha e coluna) da matriz 1 (A).
